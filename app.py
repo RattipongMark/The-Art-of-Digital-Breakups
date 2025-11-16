@@ -5,6 +5,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import altair as alt
 from libHeartbreak import summarize_conditional, cluster_reasons, predict_emotion
+import warnings
+warnings.filterwarnings("ignore", category=SyntaxWarning)
+
 
 plt.rcParams.update({
     "figure.facecolor": "none",
