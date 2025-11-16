@@ -55,7 +55,7 @@ setuptools>=78.1.1
 six==1.17.0
 streamlit==1.51.0
 streamlit-tags==1.2.8
-# tensorflow==2.14.0
+tensorflow==2.20.0
 torch==2.8.0
 torchaudio==2.8.0
 torchvision==0.23.0
