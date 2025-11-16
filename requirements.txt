@@ -1,34 +1,14 @@
-# Python runtime
-python==3.10.18
-
-# Streamlit
 streamlit>=1.20.0,<2.0.0
-
-# Data processing
 pandas>=1.5.3
 numpy>=1.25.0
-
-# Visualization
 matplotlib>=3.7.1
 seaborn>=0.12.2
 altair>=5.0.1
-
-# NLP
 pythainlp>=3.0.8
 sentence-transformers>=2.2.2
 transformers>=4.35.0
-torch>=2.2.0,<2.3.0
-
-# Clustering
+torch>=2.2.0
 hdbscan>=0.8.32
-
-# Utilities
 tqdm>=4.66.1
 scikit-learn>=1.3.0
-
-# Optional for your libHeartbreak (assuming local package)
-# If libHeartbreak is a local module, no need to install
-# Otherwise add installation line here
-
-# Text processing
 regex>=2025.11.15
