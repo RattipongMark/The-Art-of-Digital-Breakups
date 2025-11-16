@@ -34,7 +34,7 @@ ipython==8.37.0
 Jinja2==3.1.6
 joblib==1.5.2
 jsonschema==4.25.1
-keras==2.14.0
+# keras==2.14.0
 kiwisolver==1.4.9
 llvmlite==0.45.1
 lxml==6.0.2
@@ -55,7 +55,7 @@ setuptools>=78.1.1
 six==1.17.0
 streamlit==1.51.0
 streamlit-tags==1.2.8
-tensorflow==2.14.0
+# tensorflow==2.14.0
 torch==2.8.0
 torchaudio==2.8.0
 torchvision==0.23.0
